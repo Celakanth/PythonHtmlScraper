@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f58b1ebf-4f97-41e7-82dc-7911e2452b37" name="Default" comment="Created Project" />
+    <ignored path="venv/bin/activate" />
+    <ignored path="venv/bin/activate.csh" />
+    <ignored path="venv/bin/activate.fish" />
+    <ignored path="venv/bin/activate_this.py" />
+    <ignored path="venv/bin/easy_install" />
+    <ignored path="venv/bin/easy_install-3.5" />
+    <ignored path="venv/bin/jp.py" />
+    <ignored path="venv/bin/pip" />
+    <ignored path="venv/bin/pip3" />
+    <ignored path="venv/bin/pip3.5" />
+    <ignored path="venv/bin/python" />
+    <ignored path="venv/bin/python-config" />
+    <ignored path="venv/bin/python3" />
+    <ignored path="venv/bin/python3.5" />
+    <ignored path="venv/bin/rst2html.py" />
+    <ignored path="venv/bin/rst2html4.py" />
+    <ignored path="venv/bin/rst2html5.py" />
+    <ignored path="venv/bin/rst2latex.py" />
+    <ignored path="venv/bin/rst2man.py" />
+    <ignored path="venv/bin/rst2odt.py" />
+    <ignored path="venv/bin/rst2odt_prepstyles.py" />
+    <ignored path="venv/bin/rst2pseudoxml.py" />
+    <ignored path="venv/bin/rst2s5.py" />
+    <ignored path="venv/bin/rst2xetex.py" />
+    <ignored path="venv/bin/rst2xml.py" />
+    <ignored path="venv/bin/rstpep2html.py" />
+    <ignored path="venv/bin/virtualenv" />
+    <ignored path="venv/bin/wheel" />
+    <ignored path="venv/include/python3.5m/pygame/_camera.h" />
+    <ignored path="venv/include/python3.5m/pygame/_pygame.h" />
+    <ignored path="venv/include/python3.5m/pygame/_surface.h" />
+    <ignored path="venv/include/python3.5m/pygame/bitmask.h" />
+    <ignored path="venv/include/python3.5m/pygame/camera.h" />
+    <ignored path="venv/include/python3.5m/pygame/fastevents.h" />
+    <ignored path="venv/include/python3.5m/pygame/font.h" />
+    <ignored path="venv/include/python3.5m/pygame/freetype.h" />
+    <ignored path="venv/include/python3.5m/pygame/mask.h" />
+    <ignored path="venv/include/python3.5m/pygame/mixer.h" />
+    <ignored path="venv/include/python3.5m/pygame/pgarrinter.h" />
+    <ignored path="venv/include/python3.5m/pygame/pgbufferproxy.h" />
+    <ignored path="venv/include/python3.5m/pygame/pgcompat.h" />
+    <ignored path="venv/include/python3.5m/pygame/pgopengl.h" />
+    <ignored path="venv/include/python3.5m/pygame/pygame.h" />
+    <ignored path="venv/include/python3.5m/pygame/scrap.h" />
+    <ignored path="venv/include/python3.5m/pygame/surface.h" />
+    <ignored path="venv/include/python3.5m/abstract.h" />
+    <ignored path="venv/include/python3.5m/accu.h" />
+    <ignored path="venv/include/python3.5m/asdl.h" />
+    <ignored path="venv/include/python3.5m/ast.h" />
+    <ignored path="venv/include/python3.5m/bitset.h" />
+    <ignored path="venv/include/python3.5m/bltinmodule.h" />
+    <ignored path="venv/include/python3.5m/boolobject.h" />
+    <ignored path="venv/include/python3.5m/bytearrayobject.h" />
+    <ignored path="venv/include/python3.5m/bytes_methods.h" />
+    <ignored path="venv/include/python3.5m/bytesobject.h" />
+    <ignored path="venv/include/python3.5m/cellobject.h" />
+    <ignored path="venv/include/python3.5m/ceval.h" />
+    <ignored path="venv/include/python3.5m/classobject.h" />
+    <ignored path="venv/include/python3.5m/code.h" />
+    <ignored path="venv/include/python3.5m/codecs.h" />
+    <ignored path="venv/include/python3.5m/compile.h" />
+    <ignored path="venv/include/python3.5m/complexobject.h" />
+    <ignored path="venv/include/python3.5m/datetime.h" />
+    <ignored path="venv/include/python3.5m/descrobject.h" />
+    <ignored path="venv/include/python3.5m/dictobject.h" />
+    <ignored path="venv/include/python3.5m/dtoa.h" />
+    <ignored path="venv/include/python3.5m/dynamic_annotations.h" />
+    <ignored path="venv/include/python3.5m/enumobject.h" />
+    <ignored path="venv/include/python3.5m/errcode.h" />
+    <ignored path="venv/include/python3.5m/eval.h" />
+    <ignored path="venv/include/python3.5m/fileobject.h" />
+    <ignored path="venv/include/python3.5m/fileutils.h" />
+    <ignored path="venv/include/python3.5m/floatobject.h" />
+    <ignored path="venv/include/python3.5m/frameobject.h" />
+    <ignored path="venv/include/python3.5m/funcobject.h" />
+    <ignored path="venv/include/python3.5m/genobject.h" />
+    <ignored path="venv/include/python3.5m/graminit.h" />
+    <ignored path="venv/include/python3.5m/grammar.h" />
+    <ignored path="venv/include/python3.5m/import.h" />
+    <ignored path="venv/include/python3.5m/intrcheck.h" />
+    <ignored path="venv/include/python3.5m/iterobject.h" />
+    <ignored path="venv/include/python3.5m/listobject.h" />
+    <ignored path="venv/include/python3.5m/longintrepr.h" />
+    <ignored path="venv/include/python3.5m/longobject.h" />
+    <ignored path="venv/include/python3.5m/marshal.h" />
+    <ignored path="venv/include/python3.5m/memoryobject.h" />
+    <ignored path="venv/include/python3.5m/metagrammar.h" />
+    <ignored path="venv/include/python3.5m/methodobject.h" />
+    <ignored path="venv/include/python3.5m/modsupport.h" />
+    <ignored path="venv/include/python3.5m/moduleobject.h" />
+    <ignored path="venv/include/python3.5m/namespaceobject.h" />
+    <ignored path="venv/include/python3.5m/node.h" />
+    <ignored path="venv/include/python3.5m/object.h" />
+    <ignored path="venv/include/python3.5m/objimpl.h" />
+    <ignored path="venv/include/python3.5m/odictobject.h" />
+    <ignored path="venv/include/python3.5m/opcode.h" />
+    <ignored path="venv/include/python3.5m/osdefs.h" />
+    <ignored path="venv/include/python3.5m/parsetok.h" />
+    <ignored path="venv/include/python3.5m/patchlevel.h" />
+    <ignored path="venv/include/python3.5m/pgen.h" />
+    <ignored path="venv/include/python3.5m/pgenheaders.h" />
+    <ignored path="venv/include/python3.5m/py_curses.h" />
+    <ignored path="venv/include/python3.5m/pyarena.h" />
+    <ignored path="venv/include/python3.5m/pyatomic.h" />
+    <ignored path="venv/include/python3.5m/pycapsule.h" />
+    <ignored path="venv/include/python3.5m/pyconfig.h" />
+    <ignored path="venv/include/python3.5m/pyctype.h" />
+    <ignored path="venv/include/python3.5m/pydebug.h" />
+    <ignored path="venv/include/python3.5m/pyerrors.h" />
+    <ignored path="venv/include/python3.5m/pyexpat.h" />
+    <ignored path="venv/include/python3.5m/pyfpe.h" />
+    <ignored path="venv/include/python3.5m/pygetopt.h" />
+    <ignored path="venv/include/python3.5m/pyhash.h" />
+    <ignored path="venv/include/python3.5m/pylifecycle.h" />
+    <ignored path="venv/include/python3.5m/pymacconfig.h" />
+    <ignored path="venv/include/python3.5m/pymacro.h" />
+    <ignored path="venv/include/python3.5m/pymath.h" />
+    <ignored path="venv/include/python3.5m/pymem.h" />
+    <ignored path="venv/include/python3.5m/pyport.h" />
+    <ignored path="venv/include/python3.5m/pystate.h" />
+    <ignored path="venv/include/python3.5m/pystrcmp.h" />
+    <ignored path="venv/include/python3.5m/pystrhex.h" />
+    <ignored path="venv/include/python3.5m/pystrtod.h" />
+    <ignored path="venv/include/python3.5m/Python-ast.h" />
+    <ignored path="venv/include/python3.5m/Python.h" />
+    <ignored path="venv/include/python3.5m/pythonrun.h" />
+    <ignored path="venv/include/python3.5m/pythread.h" />
+    <ignored path="venv/include/python3.5m/pytime.h" />
+    <ignored path="venv/include/python3.5m/rangeobject.h" />
+    <ignored path="venv/include/python3.5m/setobject.h" />
+    <ignored path="venv/include/python3.5m/sliceobject.h" />
+    <ignored path="venv/include/python3.5m/structmember.h" />
+    <ignored path="venv/include/python3.5m/structseq.h" />
+    <ignored path="venv/include/python3.5m/symtable.h" />
+    <ignored path="venv/include/python3.5m/sysmodule.h" />
+    <ignored path="venv/include/python3.5m/token.h" />
+    <ignored path="venv/include/python3.5m/traceback.h" />
+    <ignored path="venv/include/python3.5m/tupleobject.h" />
+    <ignored path="venv/include/python3.5m/typeslots.h" />
+    <ignored path="venv/include/python3.5m/ucnhash.h" />
+    <ignored path="venv/include/python3.5m/unicodeobject.h" />
+    <ignored path="venv/include/python3.5m/warnings.h" />
+    <ignored path="venv/include/python3.5m/weakrefobject.h" />
+    <ignored path="venv/lib/python3.5/collections/__init__.py" />
+    <ignored path="venv/lib/python3.5/collections/__main__.py" />
+    <ignored path="venv/lib/python3.5/collections/abc.py" />
+    <ignored path="venv/lib/python3.5/config-3.5m/config.c" />
+    <ignored path="venv/lib/python3.5/config-3.5m/config.c.in" />
+    <ignored path="venv/lib/python3.5/config-3.5m/install-sh" />
+    <ignored path="venv/lib/python3.5/config-3.5m/libpython3.5.a" />
+    <ignored path="venv/lib/python3.5/config-3.5m/libpython3.5.dylib" />
+    <ignored path="venv/lib/python3.5/config-3.5m/libpython3.5m.a" />
+    <ignored path="venv/lib/python3.5/config-3.5m/libpython3.5m.dylib" />
+    <ignored path="venv/lib/python3.5/config-3.5m/Makefile" />
+    <ignored path="venv/lib/python3.5/config-3.5m/makesetup" />
+    <ignored path="venv/lib/python3.5/config-3.5m/python-config.py" />
+    <ignored path="venv/lib/python3.5/config-3.5m/python.o" />
+    <ignored path="venv/lib/python3.5/config-3.5m/Setup" />
+    <ignored path="venv/lib/python3.5/config-3.5m/Setup.config" />
+    <ignored path="venv/lib/python3.5/config-3.5m/Setup.local" />
+    <ignored path="venv/lib/python3.5/distutils/__init__.py" />
+    <ignored path="venv/lib/python3.5/distutils/distutils.cfg" />
+    <ignored path="venv/lib/python3.5/encodings/__init__.py" />
+    <ignored path="venv/lib/python3.5/encodings/aliases.py" />
+    <ignored path="venv/lib/python3.5/encodings/ascii.py" />
+    <ignored path="venv/lib/python3.5/encodings/base64_codec.py" />
+    <ignored path="venv/lib/python3.5/encodings/big5.py" />
+    <ignored path="venv/lib/python3.5/encodings/big5hkscs.py" />
+    <ignored path="venv/lib/python3.5/encodings/bz2_codec.py" />
+    <ignored path="venv/lib/python3.5/encodings/charmap.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp037.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp1006.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp1026.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp1125.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp1140.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp1250.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp1251.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp1252.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp1253.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp1254.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp1255.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp1256.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp1257.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp1258.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp273.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp424.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp437.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp500.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp65001.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp720.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp737.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp775.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp850.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp852.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp855.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp856.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp857.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp858.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp860.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp861.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp862.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp863.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp864.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp865.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp866.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp869.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp874.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp875.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp932.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp949.py" />
+    <ignored path="venv/lib/python3.5/encodings/cp950.py" />
+    <ignored path="venv/lib/python3.5/encodings/euc_jis_2004.py" />
+    <ignored path="venv/lib/python3.5/encodings/euc_jisx0213.py" />
+    <ignored path="venv/lib/python3.5/encodings/euc_jp.py" />
+    <ignored path="venv/lib/python3.5/encodings/euc_kr.py" />
+    <ignored path="venv/lib/python3.5/encodings/gb18030.py" />
+    <ignored path="venv/lib/python3.5/encodings/gb2312.py" />
+    <ignored path="venv/lib/python3.5/encodings/gbk.py" />
+    <ignored path="venv/lib/python3.5/encodings/hex_codec.py" />
+    <ignored path="venv/lib/python3.5/encodings/hp_roman8.py" />
+    <ignored path="venv/lib/python3.5/encodings/hz.py" />
+    <ignored path="venv/lib/python3.5/encodings/idna.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso2022_jp.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso2022_jp_1.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso2022_jp_2.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso2022_jp_2004.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso2022_jp_3.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso2022_jp_ext.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso2022_kr.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso8859_1.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso8859_10.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso8859_11.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso8859_13.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso8859_14.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso8859_15.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso8859_16.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso8859_2.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso8859_3.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso8859_4.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso8859_5.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso8859_6.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso8859_7.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso8859_8.py" />
+    <ignored path="venv/lib/python3.5/encodings/iso8859_9.py" />
+    <ignored path="venv/lib/python3.5/encodings/johab.py" />
+    <ignored path="venv/lib/python3.5/encodings/koi8_r.py" />
+    <ignored path="venv/lib/python3.5/encodings/koi8_t.py" />
+    <ignored path="venv/lib/python3.5/encodings/koi8_u.py" />
+    <ignored path="venv/lib/python3.5/encodings/kz1048.py" />
+    <ignored path="venv/lib/python3.5/encodings/latin_1.py" />
+    <ignored path="venv/lib/python3.5/encodings/mac_arabic.py" />
+    <ignored path="venv/lib/python3.5/encodings/mac_centeuro.py" />
+    <ignored path="venv/lib/python3.5/encodings/mac_croatian.py" />
+    <ignored path="venv/lib/python3.5/encodings/mac_cyrillic.py" />
+    <ignored path="venv/lib/python3.5/encodings/mac_farsi.py" />
+    <ignored path="venv/lib/python3.5/encodings/mac_greek.py" />
+    <ignored path="venv/lib/python3.5/encodings/mac_iceland.py" />
+    <ignored path="venv/lib/python3.5/encodings/mac_latin2.py" />
+    <ignored path="venv/lib/python3.5/encodings/mac_roman.py" />
+    <ignored path="venv/lib/python3.5/encodings/mac_romanian.py" />
+    <ignored path="venv/lib/python3.5/encodings/mac_turkish.py" />
+    <ignored path="venv/lib/python3.5/encodings/mbcs.py" />
+    <ignored path="venv/lib/python3.5/encodings/palmos.py" />
+    <ignored path="venv/lib/python3.5/encodings/ptcp154.py" />
+    <ignored path="venv/lib/python3.5/encodings/punycode.py" />
+    <ignored path="venv/lib/python3.5/encodings/quopri_codec.py" />
+    <ignored path="venv/lib/python3.5/encodings/raw_unicode_escape.py" />
+    <ignored path="venv/lib/python3.5/encodings/rot_13.py" />
+    <ignored path="venv/lib/python3.5/encodings/shift_jis.py" />
+    <ignored path="venv/lib/python3.5/encodings/shift_jis_2004.py" />
+    <ignored path="venv/lib/python3.5/encodings/shift_jisx0213.py" />
+    <ignored path="venv/lib/python3.5/encodings/tis_620.py" />
+    <ignored path="venv/lib/python3.5/encodings/undefined.py" />
+    <ignored path="venv/lib/python3.5/encodings/unicode_escape.py" />
+    <ignored path="venv/lib/python3.5/encodings/unicode_internal.py" />
+    <ignored path="venv/lib/python3.5/encodings/utf_16.py" />
+    <ignored path="venv/lib/python3.5/encodings/utf_16_be.py" />
+    <ignored path="venv/lib/python3.5/encodings/utf_16_le.py" />
+    <ignored path="venv/lib/python3.5/encodings/utf_32.py" />
+    <ignored path="venv/lib/python3.5/encodings/utf_32_be.py" />
+    <ignored path="venv/lib/python3.5/encodings/utf_32_le.py" />
+    <ignored path="venv/lib/python3.5/encodings/utf_7.py" />
+    <ignored path="venv/lib/python3.5/encodings/utf_8.py" />
+    <ignored path="venv/lib/python3.5/encodings/utf_8_sig.py" />
+    <ignored path="venv/lib/python3.5/encodings/uu_codec.py" />
+    <ignored path="venv/lib/python3.5/encodings/zlib_codec.py" />
+    <ignored path="venv/lib/python3.5/importlib/__init__.py" />
+    <ignored path="venv/lib/python3.5/importlib/_bootstrap.py" />
+    <ignored path="venv/lib/python3.5/importlib/_bootstrap_external.py" />
+    <ignored path="venv/lib/python3.5/importlib/abc.py" />
+    <ignored path="venv/lib/python3.5/importlib/machinery.py" />
+    <ignored path="venv/lib/python3.5/importlib/util.py" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_bisect.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_bz2.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_codecs_cn.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_codecs_hk.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_codecs_iso2022.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_codecs_jp.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_codecs_kr.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_codecs_tw.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_crypt.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_csv.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_ctypes.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_ctypes_test.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_curses.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_curses_panel.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_datetime.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_dbm.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_decimal.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_elementtree.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_hashlib.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_heapq.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_json.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_lsprof.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_lzma.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_md5.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_multibytecodec.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_multiprocessing.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_opcode.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_pickle.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_posixsubprocess.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_random.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_scproxy.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_sha1.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_sha256.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_sha512.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_socket.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_sqlite3.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_ssl.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_struct.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_testbuffer.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_testcapi.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_testimportmultiple.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_testmultiphase.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/_tkinter.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/array.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/audioop.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/binascii.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/cmath.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/fcntl.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/grp.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/math.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/mmap.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/nis.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/parser.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/pyexpat.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/readline.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/resource.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/select.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/syslog.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/termios.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/unicodedata.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/xxlimited.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/lib-dynload/zlib.cpython-35m-darwin.so" />
+    <ignored path="venv/lib/python3.5/plat-darwin/IN.py" />
+    <ignored path="venv/lib/python3.5/plat-darwin/regen" />
+    <ignored path="venv/lib/python3.5/site-packages/beautifulsoup4-4.6.0.dist-info/DESCRIPTION.rst" />
+    <ignored path="venv/lib/python3.5/site-packages/beautifulsoup4-4.6.0.dist-info/INSTALLER" />
+    <ignored path="venv/lib/python3.5/site-packages/beautifulsoup4-4.6.0.dist-info/METADATA" />
+    <ignored path="venv/lib/python3.5/site-packages/beautifulsoup4-4.6.0.dist-info/metadata.json" />
+    <ignored path="venv/lib/python3.5/site-packages/beautifulsoup4-4.6.0.dist-info/RECORD" />
+    <ignored path="venv/lib/python3.5/site-packages/beautifulsoup4-4.6.0.dist-info/top_level.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/beautifulsoup4-4.6.0.dist-info/WHEEL" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/data/cloudformation/2010-05-15/resources-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/data/cloudwatch/2010-08-01/resources-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/data/dynamodb/2012-08-10/resources-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/data/ec2/2014-10-01/resources-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/data/ec2/2015-03-01/resources-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/data/ec2/2015-04-15/resources-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/data/ec2/2015-10-01/resources-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/data/ec2/2016-04-01/resources-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/data/ec2/2016-09-15/resources-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/data/ec2/2016-11-15/resources-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/data/glacier/2012-06-01/resources-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/data/iam/2010-05-08/resources-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/data/opsworks/2013-02-18/resources-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/data/s3/2006-03-01/resources-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/data/sns/2010-03-31/resources-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/data/sqs/2012-11-05/resources-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/docs/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/docs/action.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/docs/attr.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/docs/base.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/docs/client.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/docs/collection.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/docs/docstring.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/docs/method.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/docs/resource.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/docs/service.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/docs/subresource.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/docs/utils.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/docs/waiter.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/dynamodb/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/dynamodb/conditions.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/dynamodb/table.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/dynamodb/transform.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/dynamodb/types.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/ec2/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/ec2/createtags.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/ec2/deletetags.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/examples/cloudfront.rst" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/examples/s3.rst" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/resources/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/resources/action.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/resources/base.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/resources/collection.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/resources/factory.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/resources/model.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/resources/params.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/resources/response.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/s3/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/s3/inject.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/s3/transfer.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/exceptions.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/session.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3/utils.py" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3-1.5.22.dist-info/DESCRIPTION.rst" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3-1.5.22.dist-info/INSTALLER" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3-1.5.22.dist-info/METADATA" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3-1.5.22.dist-info/metadata.json" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3-1.5.22.dist-info/RECORD" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3-1.5.22.dist-info/top_level.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/boto3-1.5.22.dist-info/WHEEL" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/acm/2015-12-08/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/acm/2015-12-08/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/acm/2015-12-08/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/alexaforbusiness/2017-11-09/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/alexaforbusiness/2017-11-09/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/apigateway/2015-07-09/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/apigateway/2015-07-09/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/apigateway/2015-07-09/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/application-autoscaling/2016-02-06/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/application-autoscaling/2016-02-06/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/application-autoscaling/2016-02-06/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/appstream/2016-12-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/appstream/2016-12-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/appstream/2016-12-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/appsync/2017-07-25/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/appsync/2017-07-25/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/athena/2017-05-18/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/athena/2017-05-18/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/autoscaling-plans/2018-01-06/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/autoscaling-plans/2018-01-06/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/autoscaling/2011-01-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/autoscaling/2011-01-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/autoscaling/2011-01-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/batch/2016-08-10/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/batch/2016-08-10/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/batch/2016-08-10/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/budgets/2016-10-20/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/budgets/2016-10-20/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/budgets/2016-10-20/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ce/2017-10-25/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ce/2017-10-25/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloud9/2017-09-23/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloud9/2017-09-23/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/clouddirectory/2016-05-10/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/clouddirectory/2016-05-10/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudformation/2010-05-15/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudformation/2010-05-15/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudformation/2010-05-15/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudformation/2010-05-15/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2014-05-31/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2014-05-31/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2014-05-31/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2014-10-21/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2014-10-21/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2014-10-21/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2014-11-06/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2014-11-06/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2014-11-06/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2015-04-17/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2015-04-17/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2015-04-17/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2015-07-27/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2015-07-27/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2015-07-27/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2015-09-17/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2015-09-17/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2015-09-17/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-01-13/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-01-13/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-01-13/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-01-28/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-01-28/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-01-28/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-08-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-08-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-08-01/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-08-20/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-08-20/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-08-20/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-09-07/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-09-07/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-09-07/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-09-29/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-09-29/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-09-29/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-11-25/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-11-25/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-11-25/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2016-11-25/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2017-03-25/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2017-03-25/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2017-03-25/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudfront/2017-03-25/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudhsm/2014-05-30/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudhsm/2014-05-30/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudhsm/2014-05-30/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudhsmv2/2017-04-28/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudhsmv2/2017-04-28/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudsearch/2011-02-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudsearch/2013-01-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudsearch/2013-01-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudsearchdomain/2013-01-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudsearchdomain/2013-01-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudtrail/2013-11-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudtrail/2013-11-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudtrail/2013-11-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudwatch/2010-08-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudwatch/2010-08-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudwatch/2010-08-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cloudwatch/2010-08-01/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/codebuild/2016-10-06/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/codebuild/2016-10-06/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/codebuild/2016-10-06/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/codecommit/2015-04-13/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/codecommit/2015-04-13/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/codecommit/2015-04-13/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/codedeploy/2014-10-06/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/codedeploy/2014-10-06/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/codedeploy/2014-10-06/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/codedeploy/2014-10-06/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/codepipeline/2015-07-09/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/codepipeline/2015-07-09/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/codepipeline/2015-07-09/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/codestar/2017-04-19/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/codestar/2017-04-19/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cognito-identity/2014-06-30/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cognito-identity/2014-06-30/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cognito-identity/2014-06-30/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cognito-idp/2016-04-18/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cognito-idp/2016-04-18/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cognito-idp/2016-04-18/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cognito-sync/2014-06-30/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/comprehend/2017-11-27/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/comprehend/2017-11-27/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/config/2014-11-12/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/config/2014-11-12/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/config/2014-11-12/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cur/2017-01-06/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cur/2017-01-06/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/cur/2017-01-06/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/datapipeline/2012-10-29/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/datapipeline/2012-10-29/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/dax/2017-04-19/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/dax/2017-04-19/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/devicefarm/2015-06-23/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/devicefarm/2015-06-23/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/devicefarm/2015-06-23/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/directconnect/2012-10-25/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/directconnect/2012-10-25/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/directconnect/2012-10-25/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/discovery/2015-11-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/discovery/2015-11-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/discovery/2015-11-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/dms/2016-01-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/dms/2016-01-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/dms/2016-01-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ds/2015-04-16/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ds/2015-04-16/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ds/2015-04-16/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/dynamodb/2012-08-10/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/dynamodb/2012-08-10/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/dynamodb/2012-08-10/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/dynamodb/2012-08-10/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/dynamodbstreams/2012-08-10/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/dynamodbstreams/2012-08-10/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/dynamodbstreams/2012-08-10/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2014-09-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2014-09-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2014-09-01/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2014-10-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2014-10-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2014-10-01/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2015-03-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2015-03-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2015-03-01/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2015-04-15/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2015-04-15/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2015-04-15/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2015-10-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2015-10-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2015-10-01/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2016-04-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2016-04-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2016-04-01/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2016-09-15/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2016-09-15/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2016-09-15/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2016-09-15/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2016-11-15/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2016-11-15/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2016-11-15/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ec2/2016-11-15/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ecr/2015-09-21/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ecr/2015-09-21/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ecr/2015-09-21/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ecs/2014-11-13/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ecs/2014-11-13/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ecs/2014-11-13/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ecs/2014-11-13/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/efs/2015-02-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/efs/2015-02-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/efs/2015-02-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elasticache/2014-09-30/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elasticache/2014-09-30/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elasticache/2014-09-30/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elasticache/2015-02-02/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elasticache/2015-02-02/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elasticache/2015-02-02/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elasticbeanstalk/2010-12-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elasticbeanstalk/2010-12-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elasticbeanstalk/2010-12-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elastictranscoder/2012-09-25/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elastictranscoder/2012-09-25/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elastictranscoder/2012-09-25/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elastictranscoder/2012-09-25/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elb/2012-06-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elb/2012-06-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elb/2012-06-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elb/2012-06-01/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elbv2/2015-12-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elbv2/2015-12-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/elbv2/2015-12-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/emr/2009-03-31/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/emr/2009-03-31/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/emr/2009-03-31/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/emr/2009-03-31/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/es/2015-01-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/es/2015-01-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/events/2014-02-03/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/events/2015-10-07/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/events/2015-10-07/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/events/2015-10-07/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/firehose/2015-08-04/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/firehose/2015-08-04/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/firehose/2015-08-04/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/gamelift/2015-10-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/gamelift/2015-10-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/gamelift/2015-10-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/glacier/2012-06-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/glacier/2012-06-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/glacier/2012-06-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/glacier/2012-06-01/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/glue/2017-03-31/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/glue/2017-03-31/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/greengrass/2017-06-07/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/guardduty/2017-11-28/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/guardduty/2017-11-28/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/health/2016-08-04/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/health/2016-08-04/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/health/2016-08-04/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/iam/2010-05-08/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/iam/2010-05-08/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/iam/2010-05-08/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/iam/2010-05-08/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/importexport/2010-06-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/importexport/2010-06-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/inspector/2015-08-18/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/inspector/2016-02-16/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/inspector/2016-02-16/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/inspector/2016-02-16/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/iot-data/2015-05-28/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/iot-jobs-data/2017-09-29/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/iot-jobs-data/2017-09-29/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/iot/2015-05-28/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/iot/2015-05-28/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/iot/2015-05-28/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/kinesis-video-archived-media/2017-09-30/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/kinesis-video-archived-media/2017-09-30/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/kinesis-video-media/2017-09-30/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/kinesis-video-media/2017-09-30/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/kinesis/2013-12-02/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/kinesis/2013-12-02/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/kinesis/2013-12-02/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/kinesis/2013-12-02/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/kinesisanalytics/2015-08-14/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/kinesisanalytics/2015-08-14/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/kinesisanalytics/2015-08-14/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/kinesisvideo/2017-09-30/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/kinesisvideo/2017-09-30/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/kms/2014-11-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/kms/2014-11-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/kms/2014-11-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/lambda/2014-11-11/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/lambda/2015-03-31/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/lambda/2015-03-31/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/lambda/2015-03-31/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/lex-models/2017-04-19/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/lex-models/2017-04-19/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/lex-runtime/2016-11-28/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/lex-runtime/2016-11-28/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/lightsail/2016-11-28/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/lightsail/2016-11-28/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/lightsail/2016-11-28/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/logs/2014-03-28/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/logs/2014-03-28/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/logs/2014-03-28/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/machinelearning/2014-12-12/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/machinelearning/2014-12-12/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/machinelearning/2014-12-12/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/machinelearning/2014-12-12/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/marketplace-entitlement/2017-01-11/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/marketplace-entitlement/2017-01-11/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/marketplacecommerceanalytics/2015-07-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/marketplacecommerceanalytics/2015-07-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/marketplacecommerceanalytics/2015-07-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/mediaconvert/2017-08-29/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/medialive/2017-10-14/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/medialive/2017-10-14/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/mediapackage/2017-10-12/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/mediapackage/2017-10-12/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/mediastore-data/2017-09-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/mediastore-data/2017-09-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/mediastore/2017-09-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/mediastore/2017-09-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/meteringmarketplace/2016-01-14/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/meteringmarketplace/2016-01-14/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/mgh/2017-05-31/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/mgh/2017-05-31/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/mobile/2017-07-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/mobile/2017-07-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/mq/2017-11-27/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/mturk/2017-01-17/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/mturk/2017-01-17/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/opsworks/2013-02-18/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/opsworks/2013-02-18/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/opsworks/2013-02-18/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/opsworks/2013-02-18/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/opsworkscm/2016-11-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/opsworkscm/2016-11-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/opsworkscm/2016-11-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/opsworkscm/2016-11-01/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/organizations/2016-11-28/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/organizations/2016-11-28/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/pinpoint/2016-12-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/pinpoint/2016-12-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/polly/2016-06-10/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/polly/2016-06-10/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/polly/2016-06-10/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/pricing/2017-10-15/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/pricing/2017-10-15/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/rds/2014-09-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/rds/2014-09-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/rds/2014-09-01/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/rds/2014-10-31/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/rds/2014-10-31/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/rds/2014-10-31/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/rds/2014-10-31/service-2.sdk-extras.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/rds/2014-10-31/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/redshift/2012-12-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/redshift/2012-12-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/redshift/2012-12-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/redshift/2012-12-01/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/rekognition/2016-06-27/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/rekognition/2016-06-27/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/rekognition/2016-06-27/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/resource-groups/2017-11-27/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/resource-groups/2017-11-27/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/resourcegroupstaggingapi/2017-01-26/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/resourcegroupstaggingapi/2017-01-26/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/route53/2013-04-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/route53/2013-04-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/route53/2013-04-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/route53/2013-04-01/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/route53domains/2014-05-15/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/route53domains/2014-05-15/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/s3/2006-03-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/s3/2006-03-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/s3/2006-03-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/s3/2006-03-01/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sagemaker-runtime/2017-05-13/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sagemaker-runtime/2017-05-13/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sagemaker/2017-07-24/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sagemaker/2017-07-24/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sagemaker/2017-07-24/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sdb/2009-04-15/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sdb/2009-04-15/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/serverlessrepo/2017-09-08/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/servicecatalog/2015-12-10/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/servicecatalog/2015-12-10/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/servicecatalog/2015-12-10/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/servicediscovery/2017-03-14/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/servicediscovery/2017-03-14/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ses/2010-12-01/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ses/2010-12-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ses/2010-12-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ses/2010-12-01/waiters-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/shield/2016-06-02/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/shield/2016-06-02/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/shield/2016-06-02/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sms/2016-10-24/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sms/2016-10-24/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sms/2016-10-24/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/snowball/2016-06-30/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/snowball/2016-06-30/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/snowball/2016-06-30/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sns/2010-03-31/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sns/2010-03-31/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sns/2010-03-31/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sqs/2012-11-05/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sqs/2012-11-05/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sqs/2012-11-05/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ssm/2014-11-06/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ssm/2014-11-06/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/ssm/2014-11-06/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/stepfunctions/2016-11-23/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/stepfunctions/2016-11-23/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/stepfunctions/2016-11-23/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/storagegateway/2013-06-30/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/storagegateway/2013-06-30/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/storagegateway/2013-06-30/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sts/2011-06-15/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sts/2011-06-15/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/sts/2011-06-15/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/support/2013-04-15/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/support/2013-04-15/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/support/2013-04-15/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/swf/2012-01-25/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/swf/2012-01-25/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/transcribe/2017-10-26/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/transcribe/2017-10-26/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/translate/2017-07-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/translate/2017-07-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/waf-regional/2016-11-28/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/waf-regional/2016-11-28/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/waf-regional/2016-11-28/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/waf/2015-08-24/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/waf/2015-08-24/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/waf/2015-08-24/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/workdocs/2016-05-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/workdocs/2016-05-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/workmail/2017-10-01/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/workmail/2017-10-01/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/workspaces/2015-04-08/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/workspaces/2015-04-08/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/workspaces/2015-04-08/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/xray/2016-04-12/examples-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/xray/2016-04-12/paginators-1.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/xray/2016-04-12/service-2.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/_retry.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/data/endpoints.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/bcdoc/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/bcdoc/docevents.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/bcdoc/docstringparser.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/bcdoc/restdoc.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/bcdoc/style.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/bcdoc/textwriter.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/client.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/docstring.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/example.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/method.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/paginator.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/params.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/service.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/shape.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/sharedexample.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/utils.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/docs/waiter.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/big5freq.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/big5prober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/chardetect.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/chardistribution.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/charsetgroupprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/charsetprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/codingstatemachine.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/constants.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/cp949prober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/escprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/escsm.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/eucjpprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/euckrfreq.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/euckrprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/euctwfreq.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/euctwprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/gb2312freq.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/gb2312prober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/hebrewprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/jisfreq.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/jpcntx.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/langbulgarianmodel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/langcyrillicmodel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/langgreekmodel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/langhebrewmodel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/langhungarianmodel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/langthaimodel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/latin1prober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/mbcharsetprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/mbcsgroupprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/mbcssm.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/sbcharsetprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/sbcsgroupprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/sjisprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/universaldetector.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/chardet/utf8prober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/contrib/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/contrib/ntlmpool.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/contrib/pyopenssl.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/packages/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/packages/ordered_dict.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/packages/six.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/util/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/util/connection.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/util/request.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/util/response.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/util/retry.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/util/ssl_.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/util/timeout.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/util/url.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/_collections.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/connection.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/connectionpool.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/exceptions.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/fields.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/filepost.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/poolmanager.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/request.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/urllib3/response.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/packages/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/adapters.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/api.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/auth.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/cacert.pem" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/certs.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/cookies.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/exceptions.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/hooks.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/models.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/sessions.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/status_codes.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/structures.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/requests/utils.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/vendored/six.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/args.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/auth.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/awsrequest.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/client.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/config.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/configloader.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/credentials.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/endpoint.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/errorfactory.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/exceptions.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/handlers.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/history.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/hooks.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/loaders.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/model.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/paginate.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/parsers.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/regions.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/response.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/retryhandler.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/serialize.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/session.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/signers.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/stub.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/translate.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/utils.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/validate.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore/waiter.py" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore-1.8.36.dist-info/DESCRIPTION.rst" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore-1.8.36.dist-info/INSTALLER" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore-1.8.36.dist-info/METADATA" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore-1.8.36.dist-info/metadata.json" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore-1.8.36.dist-info/RECORD" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore-1.8.36.dist-info/top_level.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/botocore-1.8.36.dist-info/WHEEL" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/builder/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/builder/_html5lib.py" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/builder/_htmlparser.py" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/builder/_lxml.py" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/tests/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/tests/test_builder_registry.py" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/tests/test_docs.py" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/tests/test_html5lib.py" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/tests/test_htmlparser.py" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/tests/test_lxml.py" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/tests/test_soup.py" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/tests/test_tree.py" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/dammit.py" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/diagnose.py" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/element.py" />
+    <ignored path="venv/lib/python3.5/site-packages/bs4/testing.py" />
+    <ignored path="venv/lib/python3.5/site-packages/dateutil/tz/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/dateutil/tz/_common.py" />
+    <ignored path="venv/lib/python3.5/site-packages/dateutil/tz/tz.py" />
+    <ignored path="venv/lib/python3.5/site-packages/dateutil/tz/win.py" />
+    <ignored path="venv/lib/python3.5/site-packages/dateutil/zoneinfo/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/dateutil/zoneinfo/dateutil-zoneinfo.tar.gz" />
+    <ignored path="venv/lib/python3.5/site-packages/dateutil/zoneinfo/rebuild.py" />
+    <ignored path="venv/lib/python3.5/site-packages/dateutil/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/dateutil/_common.py" />
+    <ignored path="venv/lib/python3.5/site-packages/dateutil/_version.py" />
+    <ignored path="venv/lib/python3.5/site-packages/dateutil/easter.py" />
+    <ignored path="venv/lib/python3.5/site-packages/dateutil/parser.py" />
+    <ignored path="venv/lib/python3.5/site-packages/dateutil/relativedelta.py" />
+    <ignored path="venv/lib/python3.5/site-packages/dateutil/rrule.py" />
+    <ignored path="venv/lib/python3.5/site-packages/dateutil/tzwin.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/af.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/ca.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/cs.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/da.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/de.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/en.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/eo.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/es.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/fa.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/fi.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/fr.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/gl.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/he.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/it.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/ja.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/lt.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/lv.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/nl.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/pl.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/pt_br.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/ru.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/sk.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/sv.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/zh_cn.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/languages/zh_tw.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/directives/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/directives/admonitions.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/directives/body.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/directives/html.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/directives/images.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/directives/misc.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/directives/parts.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/directives/references.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/directives/tables.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isoamsa.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isoamsb.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isoamsc.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isoamsn.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isoamso.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isoamsr.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isobox.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isocyr1.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isocyr2.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isodia.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isogrk1.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isogrk2.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isogrk3.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isogrk4-wide.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isogrk4.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isolat1.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isolat2.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isomfrk-wide.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isomfrk.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isomopf-wide.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isomopf.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isomscr-wide.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isomscr.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isonum.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isopub.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/isotech.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/mmlalias.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/mmlextra-wide.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/mmlextra.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/README.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/s5defs.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/xhtml1-lat1.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/xhtml1-special.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/include/xhtml1-symbol.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/af.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/ca.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/cs.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/da.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/de.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/en.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/eo.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/es.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/fa.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/fi.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/fr.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/gl.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/he.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/it.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/ja.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/lt.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/lv.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/nl.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/pl.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/pt_br.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/ru.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/sk.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/sv.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/zh_cn.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/languages/zh_tw.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/roles.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/states.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/rst/tableparser.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/parsers/null.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/readers/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/readers/doctree.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/readers/pep.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/readers/standalone.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/transforms/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/transforms/components.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/transforms/frontmatter.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/transforms/misc.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/transforms/parts.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/transforms/peps.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/transforms/references.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/transforms/universal.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/transforms/writer_aux.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/utils/math/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/utils/math/latex2mathml.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/utils/math/math2html.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/utils/math/tex2mathml_extern.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/utils/math/tex2unichar.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/utils/math/unichar2tex.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/utils/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/utils/code_analyzer.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/utils/error_reporting.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/utils/punctuation_chars.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/utils/roman.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/utils/smartquotes.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/utils/urischemes.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/html4css1/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/html4css1/html4css1.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/html4css1/template.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/html5_polyglot/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/html5_polyglot/math.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/html5_polyglot/minimal.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/html5_polyglot/plain.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/html5_polyglot/template.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/latex2e/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/latex2e/default.tex" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/latex2e/titlepage.tex" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/latex2e/xelatex.tex" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/odf_odt/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/odf_odt/pygmentsformatter.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/odf_odt/styles.odt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/pep_html/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/pep_html/pep.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/pep_html/template.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/big-black/__base__" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/big-black/framing.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/big-black/pretty.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/big-white/framing.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/big-white/pretty.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/default/blank.gif" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/default/framing.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/default/iepngfix.htc" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/default/opera.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/default/outline.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/default/pretty.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/default/print.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/default/s5-core.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/default/slides.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/default/slides.js" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/medium-black/__base__" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/medium-black/pretty.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/medium-white/framing.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/medium-white/pretty.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/small-black/__base__" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/small-black/pretty.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/small-white/framing.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/small-white/pretty.css" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/themes/README.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/s5_html/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/xetex/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/_html_base.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/docutils_xml.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/manpage.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/null.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/writers/pseudoxml.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/_compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/core.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/examples.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/frontend.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/io.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/nodes.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils/statemachine.py" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils-0.14.dist-info/DESCRIPTION.rst" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils-0.14.dist-info/INSTALLER" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils-0.14.dist-info/METADATA" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils-0.14.dist-info/metadata.json" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils-0.14.dist-info/RECORD" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils-0.14.dist-info/top_level.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/docutils-0.14.dist-info/WHEEL" />
+    <ignored path="venv/lib/python3.5/site-packages/jmespath/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/jmespath/ast.py" />
+    <ignored path="venv/lib/python3.5/site-packages/jmespath/compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/jmespath/exceptions.py" />
+    <ignored path="venv/lib/python3.5/site-packages/jmespath/functions.py" />
+    <ignored path="venv/lib/python3.5/site-packages/jmespath/lexer.py" />
+    <ignored path="venv/lib/python3.5/site-packages/jmespath/parser.py" />
+    <ignored path="venv/lib/python3.5/site-packages/jmespath/visitor.py" />
+    <ignored path="venv/lib/python3.5/site-packages/jmespath-0.9.3.dist-info/DESCRIPTION.rst" />
+    <ignored path="venv/lib/python3.5/site-packages/jmespath-0.9.3.dist-info/INSTALLER" />
+    <ignored path="venv/lib/python3.5/site-packages/jmespath-0.9.3.dist-info/METADATA" />
+    <ignored path="venv/lib/python3.5/site-packages/jmespath-0.9.3.dist-info/metadata.json" />
+    <ignored path="venv/lib/python3.5/site-packages/jmespath-0.9.3.dist-info/pbr.json" />
+    <ignored path="venv/lib/python3.5/site-packages/jmespath-0.9.3.dist-info/RECORD" />
+    <ignored path="venv/lib/python3.5/site-packages/jmespath-0.9.3.dist-info/top_level.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/jmespath-0.9.3.dist-info/WHEEL" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/_cmd.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/adapter.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/cache.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/controller.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/filewrapper.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/heuristics.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/serialize.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/cachecontrol/wrapper.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/colorama/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/colorama/ansi.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/colorama/ansitowin32.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/colorama/initialise.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/colorama/win32.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/colorama/winterm.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/misc.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/shutil.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/_backport/tarfile.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/database.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/index.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/locators.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/manifest.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/markers.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/metadata.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/resources.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/scripts.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/t32.exe" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/t64.exe" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/util.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/version.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/w32.exe" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/w64.exe" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distlib/wheel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_trie/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_trie/_base.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_trie/datrie.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_trie/py.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/base.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/lint.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/whitespace.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/base.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/base.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_ihatexml.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_inputstream.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_tokenizer.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/_utils.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/constants.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/html5parser.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/html5lib/serializer.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/lockfile/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/lockfile/linklockfile.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/lockfile/pidlockfile.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/lockfile/symlinklockfile.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/packaging/__about__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/packaging/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/packaging/_compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/packaging/_structures.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/packaging/markers.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/packaging/requirements.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/packaging/specifiers.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/packaging/utils.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/packaging/version.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/pkg_resources/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/progress/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/progress/bar.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/progress/counter.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/progress/helpers.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/progress/spinner.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/constants.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/escprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/escsm.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/contrib/socks.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/connection.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/fields.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/request.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/response.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/adapters.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/api.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/auth.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/cacert.pem" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/certs.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/cookies.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/exceptions.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/hooks.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/models.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/sessions.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/status_codes.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/structures.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/requests/utils.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/webencodings/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/webencodings/labels.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/webencodings/mklabels.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/webencodings/tests.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/webencodings/x_user_defined.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/appdirs.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/distro.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/ipaddress.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/ordereddict.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/pyparsing.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/re-vendor.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/retrying.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/_vendor/six.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/commands/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/commands/check.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/commands/completion.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/commands/download.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/commands/freeze.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/commands/hash.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/commands/help.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/commands/install.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/commands/list.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/commands/search.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/commands/show.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/commands/uninstall.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/commands/wheel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/compat/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/compat/dictconfig.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/models/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/models/index.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/operations/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/operations/check.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/operations/freeze.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/req/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/req/req_file.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/req/req_install.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/req/req_set.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/req/req_uninstall.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/utils/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/utils/appdirs.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/utils/build.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/utils/deprecation.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/utils/encoding.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/utils/filesystem.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/utils/glibc.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/utils/hashes.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/utils/logging.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/utils/outdated.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/utils/packaging.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/utils/setuptools_build.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/utils/ui.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/vcs/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/vcs/bazaar.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/vcs/git.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/vcs/mercurial.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/vcs/subversion.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/__main__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/basecommand.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/baseparser.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/cmdoptions.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/download.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/exceptions.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/index.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/locations.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/pep425tags.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/status_codes.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip/wheel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/DESCRIPTION.rst" />
+    <ignored path="venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/entry_points.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/INSTALLER" />
+    <ignored path="venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/METADATA" />
+    <ignored path="venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/metadata.json" />
+    <ignored path="venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/RECORD" />
+    <ignored path="venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/top_level.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/pip-9.0.1.dist-info/WHEEL" />
+    <ignored path="venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__about__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/_compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/_structures.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/markers.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/requirements.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/specifiers.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/utils.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pkg_resources/_vendor/packaging/version.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pkg_resources/_vendor/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pkg_resources/_vendor/appdirs.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pkg_resources/_vendor/pyparsing.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pkg_resources/_vendor/six.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pkg_resources/extern/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pkg_resources/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/pkg_resources/py31compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/python_dateutil-2.6.1.dist-info/DESCRIPTION.rst" />
+    <ignored path="venv/lib/python3.5/site-packages/python_dateutil-2.6.1.dist-info/INSTALLER" />
+    <ignored path="venv/lib/python3.5/site-packages/python_dateutil-2.6.1.dist-info/METADATA" />
+    <ignored path="venv/lib/python3.5/site-packages/python_dateutil-2.6.1.dist-info/metadata.json" />
+    <ignored path="venv/lib/python3.5/site-packages/python_dateutil-2.6.1.dist-info/RECORD" />
+    <ignored path="venv/lib/python3.5/site-packages/python_dateutil-2.6.1.dist-info/top_level.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/python_dateutil-2.6.1.dist-info/WHEEL" />
+    <ignored path="venv/lib/python3.5/site-packages/python_dateutil-2.6.1.dist-info/zip-safe" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer/bandwidth.py" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer/compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer/copies.py" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer/delete.py" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer/download.py" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer/exceptions.py" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer/futures.py" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer/manager.py" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer/subscribers.py" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer/tasks.py" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer/upload.py" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer/utils.py" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer-0.1.12.dist-info/DESCRIPTION.rst" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer-0.1.12.dist-info/INSTALLER" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer-0.1.12.dist-info/METADATA" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer-0.1.12.dist-info/metadata.json" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer-0.1.12.dist-info/RECORD" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer-0.1.12.dist-info/top_level.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/s3transfer-0.1.12.dist-info/WHEEL" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/alias.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/bdist_egg.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/bdist_rpm.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/bdist_wininst.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/build_clib.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/build_ext.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/build_py.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/develop.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/dist_info.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/easy_install.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/egg_info.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/install.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/install_egg_info.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/install_lib.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/install_scripts.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/launcher manifest.xml" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/py36compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/register.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/rotate.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/saveopts.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/sdist.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/setopt.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/test.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/upload.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/command/upload_docs.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/extern/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/archive_util.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/build_meta.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/cli-32.exe" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/cli-64.exe" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/cli.exe" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/config.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/dep_util.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/depends.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/dist.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/extension.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/glibc.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/glob.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/gui-32.exe" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/gui-64.exe" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/gui.exe" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/launch.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/lib2to3_ex.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/monkey.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/msvc.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/namespaces.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/package_index.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/pep425tags.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/py27compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/py31compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/py33compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/py36compat.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/sandbox.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/script (dev).tmpl" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/script.tmpl" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/site-patch.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/ssl_support.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/unicode_utils.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/version.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/wheel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools/windows_support.py" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools-38.5.0.dist-info/dependency_links.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools-38.5.0.dist-info/DESCRIPTION.rst" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools-38.5.0.dist-info/entry_points.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools-38.5.0.dist-info/INSTALLER" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools-38.5.0.dist-info/LICENSE.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools-38.5.0.dist-info/METADATA" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools-38.5.0.dist-info/metadata.json" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools-38.5.0.dist-info/RECORD" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools-38.5.0.dist-info/top_level.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools-38.5.0.dist-info/WHEEL" />
+    <ignored path="venv/lib/python3.5/site-packages/setuptools-38.5.0.dist-info/zip-safe" />
+    <ignored path="venv/lib/python3.5/site-packages/six-1.11.0.dist-info/DESCRIPTION.rst" />
+    <ignored path="venv/lib/python3.5/site-packages/six-1.11.0.dist-info/INSTALLER" />
+    <ignored path="venv/lib/python3.5/site-packages/six-1.11.0.dist-info/METADATA" />
+    <ignored path="venv/lib/python3.5/site-packages/six-1.11.0.dist-info/metadata.json" />
+    <ignored path="venv/lib/python3.5/site-packages/six-1.11.0.dist-info/RECORD" />
+    <ignored path="venv/lib/python3.5/site-packages/six-1.11.0.dist-info/top_level.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/six-1.11.0.dist-info/WHEEL" />
+    <ignored path="venv/lib/python3.5/site-packages/virtualenv-15.1.0.dist-info/DESCRIPTION.rst" />
+    <ignored path="venv/lib/python3.5/site-packages/virtualenv-15.1.0.dist-info/entry_points.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/virtualenv-15.1.0.dist-info/INSTALLER" />
+    <ignored path="venv/lib/python3.5/site-packages/virtualenv-15.1.0.dist-info/METADATA" />
+    <ignored path="venv/lib/python3.5/site-packages/virtualenv-15.1.0.dist-info/metadata.json" />
+    <ignored path="venv/lib/python3.5/site-packages/virtualenv-15.1.0.dist-info/RECORD" />
+    <ignored path="venv/lib/python3.5/site-packages/virtualenv-15.1.0.dist-info/top_level.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/virtualenv-15.1.0.dist-info/WHEEL" />
+    <ignored path="venv/lib/python3.5/site-packages/virtualenv_support/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/virtualenv_support/argparse-1.4.0-py2.py3-none-any.whl" />
+    <ignored path="venv/lib/python3.5/site-packages/virtualenv_support/pip-9.0.1-py2.py3-none-any.whl" />
+    <ignored path="venv/lib/python3.5/site-packages/virtualenv_support/setuptools-28.8.0-py2.py3-none-any.whl" />
+    <ignored path="venv/lib/python3.5/site-packages/virtualenv_support/wheel-0.29.0-py2.py3-none-any.whl" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/signatures/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/signatures/djbec.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/signatures/ed25519py.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/signatures/keys.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/tool/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/__init__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/__main__.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/archive.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/bdist_wheel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/decorator.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/egg2wheel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/install.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/metadata.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/paths.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/pep425tags.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/pkginfo.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/util.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel/wininst2wheel.py" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel-0.30.0.dist-info/DESCRIPTION.rst" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel-0.30.0.dist-info/entry_points.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel-0.30.0.dist-info/INSTALLER" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel-0.30.0.dist-info/LICENSE.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel-0.30.0.dist-info/METADATA" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel-0.30.0.dist-info/metadata.json" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel-0.30.0.dist-info/RECORD" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel-0.30.0.dist-info/top_level.txt" />
+    <ignored path="venv/lib/python3.5/site-packages/wheel-0.30.0.dist-info/WHEEL" />
+    <ignored path="venv/lib/python3.5/site-packages/easy_install.py" />
+    <ignored path="venv/lib/python3.5/site-packages/six.py" />
+    <ignored path="venv/lib/python3.5/site-packages/virtualenv.py" />
+    <ignored path="venv/lib/python3.5/__future__.py" />
+    <ignored path="venv/lib/python3.5/_bootlocale.py" />
+    <ignored path="venv/lib/python3.5/_collections_abc.py" />
+    <ignored path="venv/lib/python3.5/_dummy_thread.py" />
+    <ignored path="venv/lib/python3.5/_weakrefset.py" />
+    <ignored path="venv/lib/python3.5/abc.py" />
+    <ignored path="venv/lib/python3.5/base64.py" />
+    <ignored path="venv/lib/python3.5/bisect.py" />
+    <ignored path="venv/lib/python3.5/codecs.py" />
+    <ignored path="venv/lib/python3.5/copy.py" />
+    <ignored path="venv/lib/python3.5/copyreg.py" />
+    <ignored path="venv/lib/python3.5/fnmatch.py" />
+    <ignored path="venv/lib/python3.5/functools.py" />
+    <ignored path="venv/lib/python3.5/genericpath.py" />
+    <ignored path="venv/lib/python3.5/hashlib.py" />
+    <ignored path="venv/lib/python3.5/heapq.py" />
+    <ignored path="venv/lib/python3.5/hmac.py" />
+    <ignored path="venv/lib/python3.5/imp.py" />
+    <ignored path="venv/lib/python3.5/io.py" />
+    <ignored path="venv/lib/python3.5/keyword.py" />
+    <ignored path="venv/lib/python3.5/linecache.py" />
+    <ignored path="venv/lib/python3.5/locale.py" />
+    <ignored path="venv/lib/python3.5/no-global-site-packages.txt" />
+    <ignored path="venv/lib/python3.5/ntpath.py" />
+    <ignored path="venv/lib/python3.5/operator.py" />
+    <ignored path="venv/lib/python3.5/orig-prefix.txt" />
+    <ignored path="venv/lib/python3.5/os.py" />
+    <ignored path="venv/lib/python3.5/posixpath.py" />
+    <ignored path="venv/lib/python3.5/random.py" />
+    <ignored path="venv/lib/python3.5/re.py" />
+    <ignored path="venv/lib/python3.5/readline.so" />
+    <ignored path="venv/lib/python3.5/reprlib.py" />
+    <ignored path="venv/lib/python3.5/rlcompleter.py" />
+    <ignored path="venv/lib/python3.5/shutil.py" />
+    <ignored path="venv/lib/python3.5/site.py" />
+    <ignored path="venv/lib/python3.5/sre_compile.py" />
+    <ignored path="venv/lib/python3.5/sre_constants.py" />
+    <ignored path="venv/lib/python3.5/sre_parse.py" />
+    <ignored path="venv/lib/python3.5/stat.py" />
+    <ignored path="venv/lib/python3.5/struct.py" />
+    <ignored path="venv/lib/python3.5/tarfile.py" />
+    <ignored path="venv/lib/python3.5/tempfile.py" />
+    <ignored path="venv/lib/python3.5/token.py" />
+    <ignored path="venv/lib/python3.5/tokenize.py" />
+    <ignored path="venv/lib/python3.5/types.py" />
+    <ignored path="venv/lib/python3.5/warnings.py" />
+    <ignored path="venv/lib/python3.5/weakref.py" />
+    <ignored path="venv/.Python" />
+    <ignored path="venv/FaceRecog.py" />
+    <ignored path="venv/hello.txt" />
+    <ignored path="venv/pip-selfcheck.json" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/hello.txt" />
+        <option value="$PROJECT_DIR$/venv/FaceRecog.py" />
+        <option value="$PROJECT_DIR$/venv/RunScraper.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonHtmlScraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonHtmlScraper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonHtmlScraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonHtmlScraper" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonHtmlScraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="PythonHtmlScraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5 (FaceRecoge) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="FaceRecog" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FaceRecoge" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/FaceRecog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.FaceRecog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f58b1ebf-4f97-41e7-82dc-7911e2452b37" name="Default" comment="" />
+      <created>1517856793417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517856793417</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Created Project">
+      <created>1518029182386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1518029182386</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created Project">
+      <created>1518029217814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1518029217814</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created Project">
+      <created>1518029276832</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1518029276832</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991204" sideWeight="0.50277996" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991204" sideWeight="0.49722" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Project" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/hello.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/FaceRecog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#19#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/FaceRecog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#19#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/RunScraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#19#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/hello.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
